@@ -1,0 +1,2 @@
+# GETTOR
+Hand dimensions calculator.
